@@ -1,0 +1,16 @@
+{
+  "version": "25.3",
+  "toolchainPath": "",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-v2-freestanding",
+  "projectName": "frdmrw612_wifi_softphone",
+  "sdk": {
+    "path": "",
+    "version": "26.6.0",
+    "boardId": "frdmrw612",
+    "deviceId": "RW612",
+    "coreId": "cm33"
+  }
+}
